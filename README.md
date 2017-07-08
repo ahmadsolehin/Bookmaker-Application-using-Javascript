@@ -9,7 +9,7 @@
 <li> build an application for storing website urls using nothing but pure JavaScript. </li> 
 <li> No jQuery or frameworks, just plain old JavaScript. </li>
 
-use Local Storage to store the bookmarks
+<li> use Local Storage to store the bookmarks </li>
 
 
 ### Version
