@@ -4,7 +4,11 @@
 <li> This app goes along with the "Learn JavaScript By Building A Bookmarking App" tutorial. </li>
 <li> It uses localStorage for storing bookmarks </li>
 
-build an application for storing website urls using nothing but pure JavaScript. No jQuery or frameworks, just plain old JavaScript.
+
+
+<li> build an application for storing website urls using nothing but pure JavaScript. </li> 
+<li> No jQuery or frameworks, just plain old JavaScript. </li>
+
 use Local Storage to store the bookmarks
 
 
