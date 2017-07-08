@@ -1,7 +1,8 @@
 # Bookmarker LocalStorage App
 
 <li>Simple application for bookmarking websites. </li>
-This app goes along with the "Learn JavaScript By Building A Bookmarking App" tutorial. It uses localStorage for storing bookmarks 
+<li> This app goes along with the "Learn JavaScript By Building A Bookmarking App" tutorial. </li>
+<li> It uses localStorage for storing bookmarks </li>
 
 build an application for storing website urls using nothing but pure JavaScript. No jQuery or frameworks, just plain old JavaScript.
 use Local Storage to store the bookmarks
